@@ -22,8 +22,11 @@ Revenue contribution from different age groups
 
 ⚙️ Tech Stack
 Tool	Purpose
+
 MySQL	Data storage and advanced analytical queries
+
 Python (Pandas, Matplotlib/Seaborn)	Data preprocessing, analysis, and visualization
+
 Power BI	Dashboard creation and insight presentation
 
 🗂️ Project Workflow
