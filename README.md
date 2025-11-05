@@ -155,8 +155,7 @@ Customer-shopping-behavior-analysis/
 ├── dashboards/
 │   └── customer_behavior_dashboard.pbix    # Power BI dashboard
 │
-├── README.md                               # Project documentation
-└── requirements.txt                        # Python dependencies
+└──README.md                                # Project documentation
 ```
 
 ## 🤝 Contributing
