@@ -7,11 +7,17 @@ The analysis is performed using MySQL for data querying, Python (Pandas) for dat
 Objective
 
 To identify key patterns and trends in customer shopping behavior such as:
-Gender-based spending comparison/
+
+Gender-based spending comparison
+
 Impact of subscription on total revenue
+
 Top-performing products and categories
+
 Discount effectiveness
+
 Customer segmentation and loyalty behavior
+
 Revenue contribution from different age groups
 
 ⚙️ Tech Stack
@@ -66,9 +72,13 @@ KPIs highlighting average spend and loyalty patterns
 📊 Key Insights
 
 Male customers contributed a slightly higher share of revenue than females.
+
 Loyal customers have a much higher average purchase amount.
+
 Express shipping tends to be associated with larger purchases.
+
 Products with discounts see significantly higher order frequency.
+
 Top-rated products correlate strongly with higher purchase volumes.
 
 🚀 How to Run
