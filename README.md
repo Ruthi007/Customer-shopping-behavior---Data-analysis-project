@@ -30,6 +30,7 @@ Python (Pandas, Matplotlib/Seaborn)	Data preprocessing, analysis, and visualizat
 Power BI	Dashboard creation and insight presentation
 
 🗂️ Project Workflow
+
 1. Data Source
 
 The dataset (cust_shop table) contains customer shopping details including demographics, purchases, discounts, and reviews.
@@ -85,9 +86,13 @@ Products with discounts see significantly higher order frequency.
 Top-rated products correlate strongly with higher purchase volumes.
 
 🚀 How to Run
+
 1️⃣ MySQL Analysis
+
 -- Connect to MySQL and run:
+
 USE mydb;
+
 SOURCE customer_behavior.sql;
 
 2️⃣ Python Notebook
@@ -101,6 +106,7 @@ jupyter notebook customer_shopping_behavior.ipynb
 Open customer_behavior_dashboard.pbix in Power BI Desktop to view visual insights.
 
 📁 Repository Structure
+
 Customer-shopping-behavior---Data-analysis-project/
 │
 ├── customer_behavior_dashboard.pbix        # Power BI dashboard
